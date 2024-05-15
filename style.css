@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #C3B299;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.input-container {
+    display: flex;
+    align-items: center;
+}
+
+#word-input {
+    padding: 10px;
+    margin-right: 10px;
+}
+
+#guess-btn {
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #247BA0;
+}
+
+#get-word-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #247ba08a;
+}
