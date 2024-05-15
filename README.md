@@ -14,10 +14,3 @@ Guess the Word is a simple game where players try to guess a word based on a hin
 - Firebase Firestore: This project uses Firebase Firestore to store guessed words.
 - Google Fonts (optional): The project uses the "Arial" font by default, but you can customize it by linking to Google Fonts in `index.html`.
 
-## Contributors
-- [Your Name](mailto:your@email.com): Project Lead
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
- 
