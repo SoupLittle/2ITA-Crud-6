@@ -39,6 +39,7 @@ getWordBtn.addEventListener('click', () => {
         kategori: correctWord.kategori,
         forklaring: correctWord.forklaring
       });
+      
 });
 
 
